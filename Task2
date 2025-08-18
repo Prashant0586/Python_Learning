@@ -1,1 +1,4 @@
-
+Str1=input("Enter your first Name:: ")
+Str2=input("Enter your last Name:: ")
+Str3=Str1+" "+Str2
+print("Hello,",Str3,"! Welcome to the Python Program.")
